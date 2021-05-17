@@ -1,0 +1,2 @@
+# ShapeAI_Rachana_Gaikwad
+Basic Python and Deep Learning - 7 Days Hands on Bootcamp
